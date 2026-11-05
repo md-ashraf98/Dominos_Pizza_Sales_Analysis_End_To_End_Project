@@ -107,5 +107,5 @@ The goal is to understand how the business performed in 2015 and where it can gr
 3. Open `Pizza_Sales_Dashboard.pbix` in Power BI Desktop to explore the dashboard. Refresh the data source path if prompted.
 
 ## Author
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/) · your.email@example.com
+**Pinjari Mohammed Ashraf**
+pinjarimohammedashraf@gmail.com
