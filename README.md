@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/dashboard.png" alt="Domino's Pizza Sales Dashboard" width="900">
+  <img src="DominosLogo.png" alt="Domino's Pizza Sales Dashboard" width="900">
 </p>
 
 # 🍕 Domino's Pizza Sales Analysis
